@@ -8,4 +8,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: "The turtle moves at a speed sufficient to hunt lettuce"
 
-https://www.codewars.com/users/Kabrax01/badges/large
+<a href="https://www.codewars.com/users/Kabrax01/badges/large"><img alt="codewars logo" src="https://www.codewars.com/users/Kabrax01/badges/large"></a>
