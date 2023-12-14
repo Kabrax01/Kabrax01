@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning React, SCSS
 - 👯 I’m looking to collaborate on something new and challenging
 - 💬 Languages and tools that I have used: **HTML, CSS, SCSS, JavaScript, React, NPM, GIT, Parcel, Firebase, REST API**
 - ⚡ Fun fact: "The turtle moves at a speed sufficient to hunt lettuce"
